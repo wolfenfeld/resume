@@ -3,7 +3,7 @@
 layout: list
 
 # The title of the tag's page.
-title: Getting Started
+title: Getting Started 
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: get_started
@@ -18,4 +18,3 @@ description: >
 menu: true
 order: 1
 ---
-After installing the we would like to get started.
