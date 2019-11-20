@@ -96,10 +96,8 @@ defaults:
   - scope:
       path:            get_started
     values:
-      accent_color:    rgb(38,139,210)
-      accent_image:
-        background:    rgb(32,32,32)
-        overlay:       false
+      accent_image:          /assets/img/background.jpg
+      accent_color:          rgb(79,177,186)
 
 #  - scope:
 #      path:            hyde
