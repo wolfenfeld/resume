@@ -1,6 +1,8 @@
+
 ---
-layout: post
+layout: page
 title: Classifier Visualisations
+path: /get_started/classifiers
 categories: [get_started] 
 ---
 # Classifiers

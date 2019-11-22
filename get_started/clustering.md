@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: Clustering Visualisations
+path: /get_started/clustering
 categories: [get_started] 
 ---
 # Clustering Models

@@ -1,6 +1,8 @@
 ---
-layout: post
+layout: page
 title: Regressors Visualisations
+path: /get_started/regressors
+
 categories: [get_started] 
 ---
 # Regressors
