@@ -13,12 +13,12 @@ layout: page
 
 * [palantiri.BasePlotHandlers](palantiri.BasePlotHandlers.md) module
 
-* palantiri.ClassificationPlotHandlers module
+* [palantiri.ClassificationPlotHandlers](palantiri.ClassificationPlotHandlers.md) module
 
-* palantiri.ClusteringPlotHandlers module
+* [palantiri.ClusteringPlotHandlers](palantiri.ClusteringPlotHandlers.md) module
 
-* palantiri.GraphPlotHandlers module
+* [palantiri.GraphPlotHandlers](palantiri.GraphPlotHandlers.md) module
 
-* palantiri.RegressionPlotHandlers module
+* [palantiri.RegressionPlotHandlers](palantiri.RegressionPlotHandlers.md) module
 
-* palantiri.RegretPlotHandler module
+* [palantiri.RegretPlotHandler](palantiri.RegretPlotHandler.md) module

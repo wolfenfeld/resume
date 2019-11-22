@@ -6,9 +6,6 @@ path: /palantiri-classification-plot-handlers
 title: palantiri.ClassificationPlotHandlers module
 ---
 
-# palantiri.ClassificationPlotHandlers module
-
-
 #### class palantiri.ClassificationPlotHandlers.ClassifierPlotHandler(dataset, trained_classifier, \*\*params)
 Bases: `palantiri.BasePlotHandlers.PlotHandler`
 
