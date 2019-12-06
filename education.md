@@ -4,7 +4,7 @@ title: Education
 menu: true
 order: 2
 ---
- 
+  
 **Master of Science, Electronic Engineering, Machine Learning** (2010 - 2015)
 
 <u>Technion - Israel Institute of Technology</u>
