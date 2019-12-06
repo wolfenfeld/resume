@@ -126,7 +126,9 @@ hy-drawer.loaded .sidebar {
   padding: 1.5rem;
   contain: content;
 }
-
+h2.title{
+  font-family: Asgalt;
+}
 .sidebar-about {
   .avatar {
     margin-bottom: 1.5rem
@@ -134,6 +136,10 @@ hy-drawer.loaded .sidebar {
 
   > h2 {
     margin-top: 0;
+  }
+  > .title {
+    font-family: Asgalt;
+    font-size: 65px
   }
 }
 

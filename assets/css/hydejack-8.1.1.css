@@ -1,3 +1,9 @@
 ---
 ---
 {% capture include_to_scssify %}{% include styles/style.scss %}{% endcapture %}{% include header.txt %}{{ include_to_scssify | scssify }}
+@font-face { font-family: Asgalt; src: url('/assets/fonts/Asgalt-Regular.ttf'); }
+
+.sidebar-about>.title {
+    font-family: Asgalt;
+    font-size: 54px;
+}

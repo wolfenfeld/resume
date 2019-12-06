@@ -27,6 +27,9 @@ $font-family:         {{ site.font         | default:"Noto Sans, Helvetica, Aria
 
 @import "reboot-mod";
 
+@font-face {
+  font-family: Asgalt; src: url('/jewpyter/assets/fonts/Asgalt-Regular.ttf');
+ }
 {% unless site.hydejack.no_inline_css or jekyll.environment == 'development' %}
   @import "pooleparty/__link__/base";
   @import "pooleparty/__link__/type";
