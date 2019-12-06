@@ -34,9 +34,12 @@ revenue and keeping to a high profit-margin.
 
 * Leading the product from the first stage to the last – Monthly profit of $20K.
 
+---
+![Mellanox]({{site.baseurl}}/assets/img/mellanox.png){:style="float: right;margin-right: 7px;padding: 5px;margin-top: 7px;"}
 **Verification Engineer** (2007-03 - 2009-12)
-
-<u>Mellanox Technologies </u>
+ 
+ <u>Mellanox Technologies </u>
+ 
 * Formal and Functional verification of Computer Communication devices. 
 * Familiar with InfiniBand and Ethernet standards. 
 * Working with IBM RuleBase and Cadence Specman Elite tools.
