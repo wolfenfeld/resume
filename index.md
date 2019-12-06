@@ -3,6 +3,8 @@ layout: base
 title: Summary
 cover: true
 ---
+# Summary
+
 High-energy and results-oriented Senior Data Scientist with extensive experience in team building and leadership, product
 development, project management, compliance, and quality assurance. 
 
