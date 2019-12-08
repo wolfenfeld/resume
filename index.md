@@ -1,6 +1,5 @@
 ---
 layout: base
-title: Summary
 cover: true
 ---
 # Summary
