@@ -5,7 +5,7 @@ menu: true
 order: 4
 
 description: >
-    Some of the projects that I am currently working on
+    Some of the projects that I am currently working on 
 ---
  
 ## Palantíri
