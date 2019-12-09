@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 menu: true
-order: 4
+order: 3
 
 description: >
     Some of the projects that I am currently working on 
