@@ -4,8 +4,24 @@ title: Work Experience
 menu: true
 order: 1
 ---
+ ![Placer]({{site.baseurl}}/assets/img/placer.png){:style="float: right;margin-right: 7px;padding: 5px;margin-top: 7px;"}
+**Data Scientist Team Leader** (2021-05 - Present)
+
+<u>Placer</u>
+
+* Leading a research team in the realm of mobility data.
+* Modeling user behavior using statistical and machine learning models.
+
+ ![Unbotify]({{site.baseurl}}/assets/img/unbotify.jpg){:style="float: right;margin-right: 7px;padding: 5px;margin-top: 7px;"}
+**Data Scientist Team Leader** (2020-01 - 2021-04)
+
+<u>Unbotify</u>
+
+* Leading a research team using behavioral analytics and fraud detection methodology to detect non-human activity.
+* Develop machine learning models to identify bots in mobile applications.
+
  ![Medisafe]({{site.baseurl}}/assets/img/medisafe.png){:style="float: right;margin-right: 7px;padding: 5px;margin-top: 7px;"}
-**Senior Data Scientist** (2018-11 - Current)
+**Senior Data Scientist** (2018-11 - 2020-01)
 
 <u>Medisafe</u>
 
